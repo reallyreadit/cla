@@ -86,4 +86,4 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL YOU BE LIABL
 
 ---
 
-This Agreement is derived from the Harmony (HA-CLA-I-ANY) Version 1.0 template available at http://www.harmonyagreements.org/ and is licensed CC BY 3.0.
+This Agreement is derived from the Harmony (HA-CLA-I-ANY) Version 1.0 template available at http://www.harmonyagreements.org/ and is licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
