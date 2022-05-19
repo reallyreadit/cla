@@ -38,7 +38,8 @@ For patent claims including, without limitation, method, process, and apparatus 
 
 Based on the grant of rights in Sections 2.1 and 2.2, if We include Your Contribution in a Material, We may license the Contribution under any license, including copyleft, permissive, commercial, or proprietary licenses. As a condition on the exercise of this right, We agree to also license the Contribution under the terms of the license or licenses which We are using for the Material on the Submission Date.
 
-In addition, We may use the following licenses for Media in the Contribution: Creative Commons Attribution Share Alike 3.0 (including any right to adopt any future version of a license if permitted).
+In addition, We may use the following licenses for Media in the Contribution: [Creative Commons Attribution-ShareAlike 4.0 International
+](https://creativecommons.org/licenses/by-sa/4.0/) (including any right to adopt any future version of a license if permitted).
 
 ### 2.4 Moral Rights
 
